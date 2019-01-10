@@ -1,0 +1,28 @@
+{
+    "School_DATA": [
+        {
+            "SchoolID": "101",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "102",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "103",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "104",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        }
+    ]
+}
