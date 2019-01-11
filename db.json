@@ -8,21 +8,21 @@
         },
         {
             "SchoolID": "102",
-            "SchoolName": "Sch-1",
+            "SchoolName": "Sch-2",
             "IsDeleted": "N",
-            "SchoolType": "01"
+            "SchoolType": "02"
         },
         {
             "SchoolID": "103",
-            "SchoolName": "Sch-1",
+            "SchoolName": "Sch-3",
             "IsDeleted": "N",
-            "SchoolType": "01"
+            "SchoolType": "03"
         },
         {
             "SchoolID": "104",
-            "SchoolName": "Sch-1",
-            "IsDeleted": "N",
-            "SchoolType": "01"
+            "SchoolName": "Sch-4",
+            "IsDeleted": "Y",
+            "SchoolType": "04"
         }
     ]
 }
